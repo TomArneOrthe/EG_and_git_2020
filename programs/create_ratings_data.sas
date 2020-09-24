@@ -8,4 +8,5 @@ datalines;
 3, Liked it
 4, Really liked it
 5, Loved it
+6, Couldn't be better
 ;
