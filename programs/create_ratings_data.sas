@@ -3,10 +3,12 @@ length stars 8 rating $ 15;
 infile datalines dsd;
 input stars rating;
 datalines;
+0, Bad
 1, Hated it
 2, Didn't like it
 3, Liked it
 4, Really liked it
+45, Meh
 5, Loved it
 6, Couldn't be better
 ;
